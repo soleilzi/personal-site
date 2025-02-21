@@ -1,0 +1,70 @@
+{
+  "skills": {
+    "languages": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "HTML/CSS"
+    ],
+    "frameworks": [
+      "React [MERN]",
+      "Django",
+      "MySQL",
+      "PostgreSQL",
+      "Tailwind",
+      "Bootstrap"
+    ]
+  },
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/zeshan-zaki-619029193/",
+    "github": "https://github.com/soleilzi",
+    "email": "zeshanm.zaki@gmail.com",
+    "bookpost": "https://bookpost-m2gq.onrender.com/",
+    "sajamslam2": "https://sajam-slam-2.onrender.com/"
+  },
+
+  "about": [
+    "I'm a software engineer passionate about coding and learning new things. I'm a quick learner and I love adding on to my skillset. I'm highly motivated and eager to take on new challenges."
+  ],
+
+  "education": {
+    "school": "Queen's University",
+    "degree": "Bachelor of Applied Science – Computer Engineering",
+    "courses": [
+      "Object-Oriented Programming [Java]",
+      "Algorithms [Python]",
+      "Computer Vision with Deep Learning [Python, PyTorch]",
+      "Distributed Systems [C++]"
+    ]
+  },
+  "experience": {
+    "company": "Ericsson Ottawa",
+    "title": "MATLAB Radio Simulation Backend Engineer",
+    "tasks": [
+      "Designed and modified code in MATLAB to meet professional needs of clients for the Ericsson Indoor Planner web-app",
+      "Contributed to a team of 30+ in an agile environment by completing assigned programming work, writing and updating documentation, and verifying details of new releases"
+    ]
+  },
+  "projects": {
+    "project1": [
+      "Gesture Controlled Telerobotic Grasping"
+    ],
+    "project2": [
+      "Desktop Math Calculator"
+    ],
+    "project3": [
+      "Compiler Implementation"
+    ],
+    "p1desc": [
+      "Worked in a group of 4 to develop a system that could recognize and translate gestures to a UR5e robotic arm using computer vision and machine learning, a depth camera and skeleton tracking software, and ROS2 and the Gazebo simulator.",
+      "Conceptualization lasted throughout the final school year alongside consistent meetings with professors meant to guide and manage the team."
+    ],
+    "p2desc": [
+      "Worked in a group of 7 to develop a C++ based calculator + GUI to perform linear algebra operations",
+      "Simulated an agile development process, gaining experience with Jira and Confluence."
+    ],
+    "p3desc": [
+      "Worked in a group of 4 to implemenet a compiler for a new programming language by modifying the existing PT Pascal compiler."
+    ]
+  }
+}
