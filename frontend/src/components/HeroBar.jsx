@@ -8,12 +8,17 @@ import info from "../info.json"
 const HeroBar = () => {
   return (
     <div className="p-4 flex flex-col items-center justify-center max-w-auto mx-auto">
-      <div className='mr-36'>
-        <div className="text-3xl font-mono text-emerald-300 self-start">
-          Zeshan Zaki
+      <div className='mr-0 sm:mr-36'>
+        <div className="text-3xl font-mono self-start">
+          <h1 className='bg-gradient-to-r from-emerald-300 to-indigo-300 text-transparent bg-clip-text'>
+            Zeshan Zaki
+          </h1>
+
         </div>
         <div className="text-md font-mono text-emerald-300 mb-4 ">
-          Software Engineer
+          <h2 className='bg-gradient-to-r from-emerald-300 to-indigo-300 text-transparent bg-clip-text'>
+            Software Engineer
+          </h2>
         </div>
       </div>
 
@@ -30,7 +35,7 @@ const HeroBar = () => {
             </a>
 
             <a href={`mailto:${info.links.email}?subject=Hi NAME!`} target="_blank" rel="noopener noreferrer">
-              <IoMdMail className='hover:text-emerald-500 transition duration-150'/>
+              <IoMdMail className='hover:text-emerald-500 transition duration-150' />
             </a>
           </div>
         </div>
