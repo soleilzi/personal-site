@@ -1,5 +1,4 @@
 import React from 'react'
-import { Route, Routes } from 'react-router-dom'
 import HeroBar from './components/HeroBar'
 import Home from './pages/Home'
 
